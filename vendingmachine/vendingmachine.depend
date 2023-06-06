@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686084807 source:c:\users\windows\documents\vendingmachine\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
